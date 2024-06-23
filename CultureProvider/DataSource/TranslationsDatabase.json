@@ -1,0 +1,24 @@
+{
+  "Translations": [
+    [
+      {
+        "languageCountryCode": "en-GB",
+        "translation": "dog"
+      },
+      {
+        "languageCountryCode": "hu-HU",
+        "translation": "kutya"
+      }
+    ],
+    [
+      {
+        "languageCountryCode": "en-GB",
+        "translation": "apple"
+      },
+      {
+        "languageCountryCode": "hu-HU",
+        "translation": "alma"
+      }
+    ]
+  ]
+}
